@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
 html {
   box-sizing: border-box; }
 
@@ -237,7 +237,7 @@ main {
   main img {
     width: 350px; }
   main h3 {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Great Vibes', cursive;
     font-size: 56px; }
   main p {
     float: left;
